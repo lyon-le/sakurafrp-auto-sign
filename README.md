@@ -101,6 +101,10 @@ sakuraFRP/
 - [ladeng07/sakura-signin](https://github.com/ladeng07/sakura-signin) — GeeTest v3 协议逆向实现的核心参考
 - [Yumu2497/SakuraFrpQiandao](https://github.com/Yumu2497/SakuraFrpQiandao) (MIT License) — 签到流程与九宫格 Prompt 设计参考
 
+## 友情链接
+
+- [linux.do](https://linux.do) — 中文技术社区
+
 ## 免责声明
 
 本项目仅供学习研究使用。使用本工具造成的任何后果由使用者自行承担。请遵守 SakuraFRP 的服务条款。
