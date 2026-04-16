@@ -1,0 +1,26 @@
+# 环境变量（含密码和 API Key）
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# uv
+uv.lock
+
+# macOS
+.DS_Store
+
+# Claude Code
+.claude/
+.agents/
+
+# 调试产物
+debug_*
+*.log
